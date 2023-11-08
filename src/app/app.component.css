@@ -18,6 +18,9 @@ main{
     height: 200px;
     display:flex;
     justify-content:space-between;
+
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 header{
